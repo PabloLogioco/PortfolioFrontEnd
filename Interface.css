@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.texto_1{ /* titulo en 1° body */
+    text-align: left;
+    color: rgb(44, 173, 11);
+}
+.nombretitular{
+    text-align: left;
+    color: white;
+}
+.experiencia{
+    color: yellowgreen;
+}
+.estudios{
+    color: yellowgreen;
+}
+.proyectos{
+    color: yellowgreen;
+}
+th{  /* encabezado de tablas */ 
+    color:rgb(6, 200, 243);
+}
